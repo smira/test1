@@ -9,6 +9,9 @@ Go is required:
     make
     test1
 
+Alternatively, it could be run from Docker container:
+
+    docker run -d -p 3000:3000 smira/test1
 
 ## Tests
 
